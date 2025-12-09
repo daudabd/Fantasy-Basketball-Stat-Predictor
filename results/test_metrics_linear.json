@@ -1,0 +1,7 @@
+{
+  "test_model_mae": 7.086617883713879,
+  "test_model_rmse": 9.121357586001604,
+  "test_baseline_mae": 10.248769642889684,
+  "test_baseline_rmse": 13.220846964647679,
+  "n_test": 164627
+}
